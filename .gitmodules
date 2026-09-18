@@ -1,6 +1,8 @@
 [submodule "havnc"]
 	path = havnc
-	url = https://github.com/janneko/havnc
+	url = https://github.com/jakoleh/havnc
+	branch = main
 [submodule "havnc-dragons"]
 	path = havnc-dragons
-	url = https://github.com/janneko/havnc
+	url = https://github.com/jakoleh/havnc
+	branch = dragons
